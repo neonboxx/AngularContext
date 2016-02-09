@@ -1,11 +1,7 @@
 # AngularContext
 
-npm install 
+go to chrome://extensions/
 
-gulp babel 
+Click Load unpacked extension
 
-chrome://extensions/
-
-Load unpacked extension
-
-select the app folder
+select the AngularContext/app folder
